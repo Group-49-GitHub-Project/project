@@ -1,7 +1,4 @@
 # Welcome!
-Please fill out this form [HERE](https://forms.gle/CJHWHYhRA5Rkc7cX7) for teams.
-
-Tutorial Video for project [HERE]()
 
 ## Introduction:
 
