@@ -27,7 +27,7 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
             <h3>Project Resources&rarr;</h3>
             <p>
