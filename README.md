@@ -41,7 +41,7 @@ Your group will have the freedom to decide how to style your web pages. You can 
 
     In your terminal type:
 
-    ``` git clone https://github.com/wangalec/website-template.git ```
+    ``` git clone https://github.com/vedant29/Project-CSCI-1000 ```
 
     Then cd into the file website-template by typing:
 
@@ -80,7 +80,7 @@ Your group will have the freedom to decide how to style your web pages. You can 
 
     cd into project folder:
     
-    ``` cd website-template ```
+    ``` cd Project-CSCI-1000 ```
 
     Next, we want to install all the project dependencies by typing:
     
