@@ -28,7 +28,7 @@ Your group will have the freedom to decide how to style your web pages. You can 
 
     Follow the directions provided in this link. Please sign up for the free personal account.
 
-         - https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch
+         https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch
 
     Make sure to invite all team members to the new organization. 
 
@@ -42,7 +42,7 @@ Your group will have the freedom to decide how to style your web pages. You can 
 
     Then cd into the file website-template by typing:
 
-    ``` cd website-template ```
+    ``` cd Project-CSCI-1000 ```
 
     From here, you will set the git remote repository to the url generated when creating your team’s empty public repository.  
 
@@ -52,7 +52,7 @@ Your group will have the freedom to decide how to style your web pages. You can 
 
     ``` git remote set-url origin {repository url} ``` 
 
-        It will look something like this:
+        It will look something like this(This url will be unique to each group):
     ``` git remote set-url origin https://github.com/your-account/newly-created-github-repository.git ```
 
     Check if the remote repository has been linked
@@ -101,7 +101,7 @@ Your group will have the freedom to decide how to style your web pages. You can 
 `
     Connect your GitHub account to Netlify.
 
-    Choose the repository that contains your project.
+    Choose the repository that contains your project. Switch to the organizations that you are a part of for this project.
 
     Configure the build settings (you can leave the default settings for a simple project).
 
