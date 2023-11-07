@@ -3,7 +3,7 @@
 ## Introduction:
 
 
-In this project, you'll form groups of 2-6 students, and each member will create a personal web page, often referred to as an "About Me" page, to share fun and interesting information about themselves. If you're uncomfortable creating a personal page, you're also welcome to choose a different topic, ensuring it complies with university guidelines. 
+In this project, you'll form groups of 3-5 students, and each member will create a personal web page, often referred to as an "About Me" page, to share fun and interesting information about themselves. If you're uncomfortable creating a personal page, you're also welcome to choose a different topic, ensuring it complies with university guidelines. 
 
 The primary goal of this project is not to build a fancy website but to get hands-on experience with using Git and GitHub in a collaborative environment. You'll learn essential Git commands used by professionals and gain basic skills in creating a static web page using HTML, CSS, and some JavaScript. 
 
